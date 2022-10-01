@@ -1,0 +1,8 @@
+.mainDiv {
+  display: grid;
+  place-items: center;
+  grid-template-columns: repeat(auto-fit, 300px);
+  grid-gap: 35px;
+  padding-top: 15px;
+  justify-content: center;
+}
